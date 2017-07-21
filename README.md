@@ -1,4 +1,4 @@
-# IEEE Workshop Data Science for Networking (DS4N）
+# IEEE Workshop Data Science for Networking  (DS4N）
 
 _Previously Big Data and Machine Learning in Telecom (BMLIT)
 Dec 11-14 (TBD), 2017, Boston, MA, US

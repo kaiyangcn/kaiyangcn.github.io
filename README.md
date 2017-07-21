@@ -1,19 +1,10 @@
--
-
-
-
-
-
 # IEEE Workshop Data Science for Networking (DS4N
 
-Previously Big Data and Machine Learning in Telecom (BMLIT)
+_Previously Big Data and Machine Learning in Telecom (BMLIT)
 Dec 11-14 (TBD), 2017, Boston, MA, US
 In conjunction with the 2017 IEEE International Conference on Big Data
-(Big Data 2017 @ http://cci.drexel.edu/bigdata/bigdata2017/)
+(Big Data 2017 @ http://cci.drexel.edu/bigdata/bigdata2017/)_
 
-You can use the [editor on GitHub](https://github.com/kaiyangcn/kaiyangcn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ## Motivation
 
 In recently years, big data technologies, aided with machine learning, has attracted increasing attention in networking domain, both from the carrier side and the equipment manufacture side. As communication networks develop and advance in a fast pace towards a more pervasive future, it has become obvious that operators are sitting on gold mines of networked data and there is an strong and urgent demand of tools and products of exploiting this data to provide more intelligence in telecom operations and customer management. In addition to operation logs of network elements, telecom data, especially data from cellular networks provide a wide variety of subscriber activity logs ranging from social activities such as calls and messaging, mobile payments, to multimedia streaming and gaming, with or without geographical information. The massive amount of telecom data offers network operators a unique opportunity to gain a more comprehensive picture of the network operation as well as their customers. Meanwhile, the advances in data processing and storage capabilities and machine learning techniques enable more applications as such. In addition to traditional communication networks, the advances in IoT and SDN technologies have opened up new playgrounds for data science. Many new data science applications are proposed and deployed to optimize and improve the performance of such networks and the applications on top. Towards this end, many efforts have been undertaken and therefore many questions arise such as:- Bulleted What data should be collected from communication networks, for example, Netflows data, CDRs, DPI flow data, signaling data, etc.
@@ -29,7 +20,7 @@ In recently years, big data technologies, aided with machine learning, has attra
 The workshop aims to bring together researchers, data scientists, computer scientists, and engineers in the area of telecom data analytics to share their ideas, technologies, and key results in all aspects of mining telecom data.
 We intend to have a full-day workshop with one keynote talk, one or two invited talks, and seven to ten regular talks. 
 
-## Topics 
+## Topics
 
 Topics of interest include data science practices in areas of but not limited to: 
 - Performance monitoring in mobile wireless networks
@@ -50,6 +41,7 @@ Topics of interest include data science practices in areas of but not limited to
 ## Paper submission instructions (TBD)
 
 ### Important Dates
+
 October 10, 2017: Due date for full workshop papers submission
 November 1, 2017: Notification of paper acceptance to authors
 November 15, 2017: Camera-ready of accepted papers
@@ -57,11 +49,13 @@ December 11-14 (TBD), 2017: Workshop
 
 
 ### Review procedure
+
 All submitted paper will be reviewed by 3 program committee members.
 
 ## Workshop Organizers
 
 ### Workshop Chairs
+
 Hui Zang, Huawei Technologies, USA
 Kai Yang, Tongji University, China
 Jin Yang, Huawei Technologies, USA
@@ -69,23 +63,4 @@ Jin Yang, Huawei Technologies, USA
 ### Technical Program Committee (TBD)
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaiyangcn/kaiyangcn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

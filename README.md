@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+Previously Big Data and Machine Learning in Telecom (BMLIT)
+Dec 11-14 (TBD), 2017, Boston, MA, USA
+In conjunction with the 2017 IEEE International Conference on Big Data
+(Big Data 2017 @ http://cci.drexel.edu/bigdata/bigdata2017/)
+
 You can use the [editor on GitHub](https://github.com/kaiyangcn/kaiyangcn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -7,15 +12,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Motivation
 
 In recently years, big data technologies, aided with machine learning, has attracted increasing attention in networking domain, both from the carrier side and the equipment manufacture side. As communication networks develop and advance in a fast pace towards a more pervasive future, it has become obvious that operators are sitting on gold mines of networked data and there is an strong and urgent demand of tools and products of exploiting this data to provide more intelligence in telecom operations and customer management. In addition to operation logs of network elements, telecom data, especially data from cellular networks provide a wide variety of subscriber activity logs ranging from social activities such as calls and messaging, mobile payments, to multimedia streaming and gaming, with or without geographical information. The massive amount of telecom data offers network operators a unique opportunity to gain a more comprehensive picture of the network operation as well as their customers. Meanwhile, the advances in data processing and storage capabilities and machine learning techniques enable more applications as such. In addition to traditional communication networks, the advances in IoT and SDN technologies have opened up new playgrounds for data science. Many new data science applications are proposed and deployed to optimize and improve the performance of such networks and the applications on top. Towards this end, many efforts have been undertaken and therefore many questions arise such as:
-What data should be collected from communication networks, for example, Netflows data, CDRs, DPI flow data, signaling data, etc.
-Where these data should be collected, at what network locations and at which network layers. For example, the same application data can be collected at base stations as well as distribution sites, with different level of information. As another example, the same data can be collected at layer 2 as well as layer 3, based on the OSI model. 
-At what frequency these data should be collected and processed, for example, every 15 minute interval or every hour;
-How these data should be processed, in a central location or at where they are collected, or somewhere in the middle;
-What models to build and how often they should be updated;
-Whether the models are deployed online or offline, etc. 
-How data science/machine learning help IoT networks and their applications
-How to improve SDN using machine learning
-What/how much is the overhead of deploying machine learning/data science  based applications to improve network performance in these networks
+
+- Bulleted What data should be collected from communication networks, for example, Netflows data, CDRs, DPI flow data, signaling data, etc.
+- Bulleted Where these data should be collected, at what network locations and at which network layers. For example, the same application data can be collected at base stations as well as distribution sites, with different level of information. As another example, the same data can be collected at layer 2 as well as layer 3, based on the OSI model. 
+- Bulleted At what frequency these data should be collected and processed, for example, every 15 minute interval or every hour;
+- Bulleted How these data should be processed, in a central location or at where they are collected, or somewhere in the middle;
+- Bulleted What models to build and how often they should be updated;
+- Bulleted Whether the models are deployed online or offline, etc. 
+- Bulleted How data science/machine learning help IoT networks and their applications
+- Bulleted How to improve SDN using machine learning
+- Bulleted What/how much is the overhead of deploying machine learning/data science  based applications to improve network performance in these networks
 
 The workshop aims to bring together researchers, data scientists, computer scientists, and engineers in the area of telecom data analytics to share their ideas, technologies, and key results in all aspects of mining telecom data.
 We intend to have a full-day workshop with one keynote talk, one or two invited talks, and seven to ten regular talks. 

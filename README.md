@@ -56,9 +56,9 @@ All submitted paper will be reviewed by 3 program committee members.
 
 ### Workshop Chairs
 
-Hui Zang, Huawei Technologies, USA
-Kai Yang, Tongji University, China
-Jin Yang, Huawei Technologies, USA
+- Hui Zang, Huawei Technologies, USA
+- Kai Yang, Tongji University, China
+- Jin Yang, Huawei Technologies, USA
 
 ### Technical Program Committee (TBD)
 

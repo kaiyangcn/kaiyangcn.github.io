@@ -1,3 +1,9 @@
+-
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 Previously Big Data and Machine Learning in Telecom (BMLIT)
@@ -29,9 +35,44 @@ We intend to have a full-day workshop with one keynote talk, one or two invited 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Topics 
+
+Topics of interest include data science practices in areas of but not limited to: 
+- Bulleted Performance monitoring in mobile wireless networks
+- Bulleted Anomaly detection and root cause analysis in time series of network data
+- Bulleted Telecom network management
+- Bulleted IoT network design and optimization
+- Bulleted SDN design and optimization
+- Bulleted Cloud provisioning, management and troubling shooting
+- Bulleted Customer profiling and behavior analysis
+- Bulleted Churn analysis and customer retention 
+- Bulleted Deep learning applications in network operation and optimization
+- Bulleted Big data system management in networks or networking applications
+- Bulleted Graph computing for communication networks
+- Bulleted Mobile application behaviors and recommendation  
+- Bulleted Big data and machine learning to assist business and operational transformation
+- Bulleted Data science enabled communication network planning, optimization, and protocol design
+
+### Paper submission instructions (TBD)
+## Important Dates
+October 10, 2017: Due date for full workshop papers submission
+November 1, 2017: Notification of paper acceptance to authors
+November 15, 2017: Camera-ready of accepted papers
+December 11-14 (TBD), 2017: Workshop
+
+
+### Review procedure
+All submitted paper will be reviewed by 3 program committee members.
+
+### Workshop Organizers
+
+### Workshop Chairs
+Hui Zang, Huawei Technologies, USA
+Kai Yang, Tongji University, China
+Jin Yang, Huawei Technologies, USA
+
+### Technical Program Committee (TBD)
+
 
 - Bulleted
 - List

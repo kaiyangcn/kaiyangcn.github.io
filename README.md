@@ -42,10 +42,10 @@ Topics of interest include data science practices in areas of but not limited to
 
 ### Important Dates
 
-October 10, 2017: Due date for full workshop papers submission
-November 1, 2017: Notification of paper acceptance to authors
-November 15, 2017: Camera-ready of accepted papers
-December 11-14 (TBD), 2017: Workshop
+- October 10, 2017: Due date for full workshop papers submission
+- November 1, 2017: Notification of paper acceptance to authors
+- November 15, 2017: Camera-ready of accepted papers
+- December 11-14 (TBD), 2017: Workshop
 
 
 ### Review procedure

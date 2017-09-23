@@ -1,2 +1,2 @@
-# ds4n.github.io
-web page for ds4n
+# kaiyangcn.github.io
+web page for Professor Kai Yang
